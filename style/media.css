@@ -398,6 +398,15 @@
         width: 100%;
     }
 }
+@media(max-width: 425px) {
+    .header__content-input{
+        width: 170px;
+        height: 40px;
+    }
+    .header__content-button{
+        height: 40px;
+    }
+}
 @media(max-width: 396px) {
     .main__mailing-input{
         width: 205px !important;
