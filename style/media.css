@@ -353,6 +353,9 @@
     .main__news-carousel{
         margin-top: 103px;
     }
+    .header__content-logo{
+        margin-right: 30px;
+    }
     .main__carousel-news,
     .main__news-action,
     .main__news-new,
